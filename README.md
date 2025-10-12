@@ -30,11 +30,7 @@
 **Database:** MongoDB  
 **Security Tools:** Nmap | Wireshark | Metasploit | Burp Suite  
 
----
 
-## 📈 GitHub Stats
-![Harshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshatkarthii&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshatkarthii&layout=compact&theme=tokyonight)
 
 ---
 

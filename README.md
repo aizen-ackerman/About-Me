@@ -3,15 +3,15 @@
 
 🎓 **B.E. Computer Science (Cyber Security)** student  
 💻 Passionate about **Cybersecurity**, **Networking**, and **AI-powered apps**  
-🔥 Currently building: **AI-Based Interview Practice Platform** & **Secure Chat App**
+🔥 Currently building: **My Career😅** & **Zer0Cloud**
 
 ---
 
 ## 🚀 About Me
-- 🧠 I code in **Python**, **Java**, **C**, and **C++**
+- 🧠 I code in **Python**, **Java** and **C**
 - 🌐 Exploring **ethical hacking**, **Splunk**, and **network defense**
 - 🧩 Front-end enthusiast using **React + Tailwind CSS**
-- 🧰 Tools I vibe with: **Kali Linux**, **MongoDB**, **Flask**, **React (TypeScript)**
+- 🧰 Tools I vibe with: **Kali Linux**, **Flask**, **React (TypeScript)**
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## ⚡ Tech Stack
-**Languages:** Python | Java | C | C++  
+**Languages:** Java | Python | C
 **Frontend:** React | HTML | CSS | Tailwind  
 **Backend:** Flask | Node.js  
 **Database:** MongoDB  

@@ -10,23 +10,23 @@
 ## 🚀 About Me
 - 🧠 I code in **Python**, **Java** and **C**
 - 🌐 Exploring **ethical hacking**, **Splunk**, and **network defense**
-- 🧩 Front-end enthusiast using **React + Tailwind CSS**
-- 🧰 Tools I vibe with: **Kali Linux**, **Flask**, **React (TypeScript)**
+- 🧰 Tool I vibe with: **Kali Linux**
 
 ---
 
 ## 🛠️ Projects
 - 🕵️‍♂️ **WiFi Security Analysis** – scanning and analyzing network vulnerabilities  
-- 🌐 **Web App Vulnerability Scanner** – checks web apps for common security flaws  
+- 🌐 **LEAKFINDER** – checks web apps for common security flaws  
 - 🤖 **AI Interview Practice Platform** – AI-driven mock interviews with feedback  
-- 💬 **CodeChat** – full-stack chat app using Flask + MongoDB + HTML/CSS frontend  
+- 💬 **CodeChat** – full-stack chat app using Flask + MongoDB + HTML/CSS frontend
+- 🌐 **Zer0Cloud** - A modular security tool kit used to find miscofigs in your cloud consoles
 
 ---
 
 ## ⚡ Tech Stack
 **Languages:** Java | Python | C
-**Frontend:** React | HTML | CSS | Tailwind  
-**Backend:** Flask | Node.js  
+**Frontend:** HTML | CSS   
+**Backend:** Flask
 **Database:** MongoDB  
 **Security Tools:** Nmap | Wireshark | Metasploit | Burp Suite  
 
@@ -42,7 +42,7 @@
 ---
 
 ## 🧠 Fun Fact
-> I speak **Tamil**, understand **Telugu**, and code in **binary (sometimes).**
+> I speak **Tamil**, understand **Telugu**, and code in **binary (sometimes) ^.^**
 
 ---
 
